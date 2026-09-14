@@ -12,20 +12,22 @@
 
 ## 📌 Featured Projects
 
-### 🔬 STM Molecular Image Classification
-A computer vision project involving STM image processing, molecule segmentation, manual labelling, and CNN-based image classification.
-
-**Tools:** Python · PyTorch · NumPy · Pandas · Matplotlib
-
-> 🚧 Project repository currently being prepared.
-
 ### 🌦️ Melbourne Climate Analysis & Rainfall Prediction
 
-A data science project analysing Melbourne climate data and developing predictive models for rainfall using historical weather observations.
+Machine learning project for next-day rainfall prediction using Melbourne climate data and a **Decision Tree classifier**.
 
-**My focus:** Decision Tree classification · Hyperparameter tuning · Model evaluation
+**Highlights:** Time-based validation · Hyperparameter tuning · Threshold optimisation · Feature importance  
+**Performance:** Recall **72.8%** · ROC-AUC **0.735**  
+**Tech:** Python · Pandas · NumPy · scikit-learn · Matplotlib
 
-**Tools:** Python · Pandas · NumPy · scikit-learn · Matplotlib
+🔗 **[View Project](https://github.com/jjiajie/melbourne-climate-rainfall-prediction)**
+
+
+### 🔬 STM Molecular Image Classification
+
+Computer vision project involving STM image processing, molecule segmentation, manual labelling, and **CNN-based image classification**.
+
+**Tech:** Python · PyTorch · NumPy · Pandas · Matplotlib
 
 > 🚧 Project repository currently being prepared.
 
