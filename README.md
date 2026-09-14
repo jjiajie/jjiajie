@@ -19,6 +19,16 @@ A computer vision project involving STM image processing, molecule segmentation,
 
 > 🚧 Project repository currently being prepared.
 
+### 🌦️ Melbourne Climate Analysis & Rainfall Prediction
+
+A data science project analysing Melbourne climate data and developing predictive models for rainfall using historical weather observations.
+
+**My focus:** Decision Tree classification · Hyperparameter tuning · Model evaluation
+
+**Tools:** Python · Pandas · NumPy · scikit-learn · Matplotlib
+
+> 🚧 Project repository currently being prepared.
+
 ## 🛠️ Skills
 
 **Programming & Data Analysis**
