@@ -33,11 +33,13 @@ Business-focused retail data analysis exploring **weekday patterns, promotions, 
 
 ### 🔬 STM Molecular Image Classification
 
-Computer vision project involving STM image processing, molecule segmentation, manual labelling, and **CNN-based image classification**.
+Computer vision project involving **STM image processing, molecule segmentation, manual labelling, and CNN-based image classification**.
 
-**Tech:** Python · PyTorch · NumPy · Pandas · Matplotlib
+**Highlights:** Molecule segmentation · Parameter tuning · Manual labelling · Class-balanced CNN training · Classification diagnostics  
+**Tech:** Python · PyTorch · NumPy · Pandas · Matplotlib  
+**Status:** 🚧 Ongoing
 
-> 🚧 Project repository currently being prepared.
+🔗 [View Project](https://github.com/jjiajie/stm-molecular-image-classification)
 
 ## 🛠️ Skills
 
