@@ -22,6 +22,14 @@ Machine learning project for next-day rainfall prediction using Melbourne climat
 
 🔗 **[View Project](https://github.com/jjiajie/melbourne-climate-rainfall-prediction)**
 
+### 🏪 Rossmann Retail Sales Analytics
+
+Business-focused retail data analysis exploring **weekday patterns, promotions, holidays, and store performance** using Rossmann sales data.
+
+**Highlights:** KPI analysis · Weekday patterns · Promotion analysis · Holiday analysis · Store performance  
+**Tech:** Python · Pandas · NumPy · Matplotlib
+
+🔗 [View Project](https://github.com/jjiajie/rossmann-retail-sales-analytics)
 
 ### 🔬 STM Molecular Image Classification
 
